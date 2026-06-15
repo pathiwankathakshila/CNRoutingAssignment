@@ -6,8 +6,6 @@ This repository contains the configuration files and documentation for the Compu
 ## Student Details
 * **Module:** Computer Networks
 * **Student ID:** 39123
-* **Hostname Used:** KandyNSBM_39123
-* **Submission Date:** 15th June 2026
 * **GitHub Repo:** CNRoutingAssignment
 
 ## Tasks
