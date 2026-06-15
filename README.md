@@ -28,16 +28,5 @@ Implemented RIPv2 dynamic routing across three routers (KandyNSBM, ColomboNSBM, 
 **Part B: EIGRP (Enhanced Interior Gateway Routing Protocol)**
 Removed RIP and applied Cisco's EIGRP (Autonomous System 1). EIGRP provided faster convergence using the DUAL algorithm and composite metrics.
 
-## Routing Protocol Comparison
-
-| Feature | Static Routes | RIP v2 | EIGRP |
-| :--- | :--- | :--- | :--- |
-| **Configuration** | Manual | Automatic | Automatic |
-| **Metric** | N/A | Hop Count | Composite (BW + Delay) |
-| **Scalability** | Low | Medium | High |
-| **Convergence** | Instant | Slow (30s timer) | Fast (DUAL) |
-| **VLSM Support** | Yes | Yes (v2) | Yes |
-| **Cisco Proprietary** | No | No | Yes |
-
 ## Files Included
 * Packet Tracer (`.pkt`) configuration files for each task.
